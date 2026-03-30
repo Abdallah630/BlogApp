@@ -134,7 +134,7 @@ Swagger UI available at:
 > Add a screenshot of Swagger UI here
 
 ```
-![Swagger](./screenshot.png)
+![Swagger](C:\Users\Aboda\OneDrive\Pictures\Screenshots 1)
 ```
 
 ---
