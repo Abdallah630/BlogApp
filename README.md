@@ -119,15 +119,6 @@ dotnet run --project BlogApp.API
 
 ---
 
-## 📖 API Documentation
-
-Swagger UI available at:
-
-```
-/swagger
-```
-
----
 
 
 ## 👨‍💻 Author
