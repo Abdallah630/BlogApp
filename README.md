@@ -129,15 +129,6 @@ Swagger UI available at:
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot of Swagger UI here
-
-```
-![Swagger](C:\Users\Aboda\OneDrive\Pictures\Screenshots 1)
-```
-
----
 
 ## 👨‍💻 Author
 
